@@ -1,5 +1,9 @@
 body{
-    
     background-image: url();
-    
 }
+.nomedapagina{
+    background-color: black;
+   font-size: 3em;
+   text-align: center;
+   color:white
+}           
