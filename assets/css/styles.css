@@ -144,19 +144,19 @@ a {
     font-size: 3em;
     text-align: center;
     color: black;
-    margin-left: 230px;
+    margin-left: 400px;
 }
 
 .barraprincipal img:nth-child(3){
     width: 30px;
     height: 30px;
-margin-left: 390px;
+margin-left: 400px;
 }
 
 .barraprincipal img:nth-child(1){
     width: 30px;
     height: 30px;;
-margin-right: 200px;
+margin-left: 20px;
 }
 
 
@@ -196,3 +196,4 @@ margin-right: 200px;
 display: flex;
 align-items: center;
 }
+
