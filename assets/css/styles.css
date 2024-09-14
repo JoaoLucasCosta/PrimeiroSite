@@ -131,15 +131,11 @@ table {
 
 /* Meu CSS */
 
-body {
-    background-image: url();
-}
-
 a {
     text-decoration: none;
 }
 
-.barraprincipal p{
+.barraprincipal p {
     background-color: white;
     font-size: 3em;
     text-align: center;
@@ -147,22 +143,27 @@ a {
     margin-left: 400px;
 }
 
-.barraprincipal img:nth-child(3){
+.barraprincipal img:nth-child(3) {
     width: 30px;
     height: 30px;
-margin-left: 400px;
+    margin-left: 400px;
 }
 
-.barraprincipal img:nth-child(1){
+.barraprincipal img:nth-child(1) {
     width: 30px;
-    height: 30px;;
-margin-left: 20px;
+    height: 30px;
+    margin-left: 20px;
 }
-
 
 .h1 {
     font-size: 2em;
     padding-top: 40px;
+    margin-left: 350px;
+}
+
+.titulo2 {
+    font-size: 2em;
+    margin-left: 310px;
 }
 
 .h2 {
@@ -186,14 +187,18 @@ margin-left: 20px;
     border-radius: 30px;
 }
 
-.barradenavegacao li a:hover{
+.barradenavegacao li a:hover {
     color: black;
     background-color: white;
     border: 1px solid black;
 }
 
-.barraprincipal{
-display: flex;
-align-items: center;
+.barraprincipal {
+    display: flex;
+    align-items: center;
 }
 
+.paragrafo1 {
+    margin: 10px 0 10px 0;
+    text-indent: 20px;
+}
