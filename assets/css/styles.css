@@ -181,9 +181,9 @@ a {
 }
 
 .barradenavegacao li a {
-    color: white;
+    color: black;
     padding: 10px 30px;
-    background-color: black;
+    background-color: white;
     border-radius: 30px;
 }
 
@@ -198,7 +198,14 @@ a {
     align-items: center;
 }
 
-.paragrafo1 {
+.paragrafo1 p{
     margin: 10px 0 10px 0;
     text-indent: 20px;
 }
+
+.paragrafo1 img{
+    width: 300px;
+    right: 300px;
+    border-radius: 20px;
+}
+
